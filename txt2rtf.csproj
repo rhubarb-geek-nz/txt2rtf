@@ -3,10 +3,9 @@
   <PropertyGroup>
     <AssemblyName>txt2rtf</AssemblyName>
     <OutputType>Exe</OutputType>
-    <TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks>
+    <TargetFrameworks>net6.0;net8.0</TargetFrameworks>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>txt2rtf</ToolCommandName>
-    <PackageOutputPath>./nupkg</PackageOutputPath>
     <PackageId>rhubarb-geek-nz.txt2rtf</PackageId>
     <Version>1.0.2</Version>
     <Authors>Roger Brown</Authors>
